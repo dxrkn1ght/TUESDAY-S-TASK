@@ -48,20 +48,26 @@
 
 ### Listening :
 
-` First section `  10/10
+` First section `  9/10
 
+<img width="945" height="479" alt="image" src="https://github.com/user-attachments/assets/64cca16e-c28a-4441-a69c-81f5ae5e7822" />
 
 
 ` Second section `  8/10
 
 
+<img width="1181" height="350" alt="image" src="https://github.com/user-attachments/assets/71320cee-ed84-454f-8717-b4672eb203b1" />
 
 
-` Third section `  9/10
+` Third section `  8/10
 
 
+<img width="1088" height="496" alt="image" src="https://github.com/user-attachments/assets/7512eaf4-e380-4766-ba69-4030f6b2f6fb" />
 
-` Fourth section `  8/10
+
+` Fourth section `  9/10
+
+<img width="1132" height="421" alt="image" src="https://github.com/user-attachments/assets/7db49399-0849-48f0-a831-9b95f50ee700" />
 
 
 
@@ -76,13 +82,17 @@
 ```
 
 ```
-` Third section ` 9/10
+` Third section ` 8/10
 ```
 
 ```
-` Fourth section ` 8/10
+` Fourth section ` 9/10
 ```
 
 
 ### Overall :
+
+<img width="1200" height="387" alt="image" src="https://github.com/user-attachments/assets/5f63f40b-0af7-4fa6-acb0-c1a5692a2583" />
+
+
                                                                 8.0
