@@ -112,9 +112,9 @@
 
 ### 100 vocab
 
-```
-[100_IELTS_Vocabulary_Uzbek.docx](https://github.com/user-attachments/files/21240966/100_IELTS_Vocabulary_Uzbek.docx)
-```
+
+# [100_IELTS_Vocabulary_Uzbek.docx](https://github.com/user-attachments/files/21240966/100_IELTS_Vocabulary_Uzbek.docx)
+
 
 ### Speaking with team
 
