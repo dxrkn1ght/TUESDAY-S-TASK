@@ -96,3 +96,28 @@
 
 
                                                                 8.0
+
+
+
+
+### YouTube workout
+
+
+<img width="1364" height="641" alt="image" src="https://github.com/user-attachments/assets/a7ae1ce9-1ea3-435b-a3e1-0cc77e7f09ec" />
+
+
+### Serial
+
+<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/291d53a8-9664-4af9-8d6c-642b74c78ea9" />
+
+### 100 vocab
+
+```
+[100_IELTS_Vocabulary_Uzbek.docx](https://github.com/user-attachments/files/21240966/100_IELTS_Vocabulary_Uzbek.docx)
+```
+
+### Speaking with team
+
+```
+It was done
+```
